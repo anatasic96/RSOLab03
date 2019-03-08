@@ -11,7 +11,9 @@ namespace RSOLab03
         static void Main(string[] args)
         {
             Console.WriteLine("Ana Tasic");
+            Console.WriteLine("test");
             Console.ReadLine();
+
         }
     }
 }
